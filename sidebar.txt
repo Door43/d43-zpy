@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpy:home|Door43 (zpy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpy|d43-zpy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpy/archive/master.zip|d43-zpy.zip]]
+
+**Recent Changes**
+{{changes>ns = zpy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpy|Ethnologue data]]
+
